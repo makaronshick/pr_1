@@ -15,7 +15,7 @@ function my_array_flip(array $array): array {
 }
 
 //modify
-
+//pull
 $input = array("1oranges", "apples", "pears", 12.5, 3, 3, 3);
 
 echo '<pre>';
